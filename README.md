@@ -1,4 +1,4 @@
-🌐 CICN 2025 Website
+🌐 CICN 2025 Website<br>
 Welcome to the official repository for the 17th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2025) website.
 
 📅 Conference Details
