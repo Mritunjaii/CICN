@@ -1,12 +1,14 @@
-<<<<<<< HEAD
-# React + Vite
+🌐 CICN 2025 Website
+Welcome to the official repository for the 17th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2025) website.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📅 Conference Details
+Conference Name: IEEE CICN 2025
 
-Currently, two official plugins are available:
+Edition: 17th International Conference
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# CICN
->>>>>>> 14fe338836e40acc659c222916f954f7b45bc6c5
+Theme: Computational Intelligence and Communication Networks
+
+Date: 20-21 Dec 2025
+
+Location: NIT Goa
+
