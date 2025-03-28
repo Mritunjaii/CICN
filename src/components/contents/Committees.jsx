@@ -66,17 +66,17 @@ const committees = [
       "Dr. Jitendra Agrawal, RGPV Bhopal",
     ],
   },
-  {
-    title: "Hospitality Committee Chairs",
-    members: [
-      "Ms. Fiona Lawrence, Oriental University, Indore",
-      "Ms. Pakiza Khan, Oriental University, Indore",
-      "Mr. Mohammad Javed, Oriental University, Indore",
-      "Mr. Manoj Biswakarma, Oriental University, Indore",
-      "Ms. Arpita Gupta, Oriental University, Indore",
-      "Ms. Preeti Puranik, Oriental University, Indore",
-    ],
-  },
+  // {
+  //   title: "Hospitality Committee Chairs",
+  //   members: [
+  //     "Ms. Fiona Lawrence, Oriental University, Indore",
+  //     "Ms. Pakiza Khan, Oriental University, Indore",
+  //     "Mr. Mohammad Javed, Oriental University, Indore",
+  //     "Mr. Manoj Biswakarma, Oriental University, Indore",
+  //     "Ms. Arpita Gupta, Oriental University, Indore",
+  //     "Ms. Preeti Puranik, Oriental University, Indore",
+  //   ],
+  // },
   {
     title: "Technical Program Committee",
     members: [
