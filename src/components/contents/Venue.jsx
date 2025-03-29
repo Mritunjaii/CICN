@@ -1,9 +1,9 @@
 import React from 'react';
 // import sanchi from '../../assets/sanchi_1.jpeg';
 // import mp1 from '../../assets/mp1.jpg';
-import oa1 from '../../assets/oa1.jpg';
+import oa1 from '../../assets/oa1.jpeg';
 // import iete from '../../assets/IETE.png';
-import hostelImg from '../../assets/Hostel.jpg'; // Ensure this path is correct
+import hostelImg from '../../assets/hostell.jpg'; // Ensure this path is correct
 
 const Venue = () => {
   return (
