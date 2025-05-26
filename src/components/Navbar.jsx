@@ -192,6 +192,13 @@ const Navbar = ({ handleClick }) => {
               )}
             </AnimatePresence>
           </div>
+          <a
+            onClick={() => window.location.href = 'https://cicn-2025.vercel.app/CMT-Acknowledgement'}
+            className="block px-3 py-2 cursor-pointer hover:bg-sky-400 text-white text-xs"
+            style={{ textDecoration: 'none' }}
+          >
+            CMT-Acknowledgement
+          </a>
 
           {/* Contact Us */}
           <a
