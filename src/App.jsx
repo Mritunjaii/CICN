@@ -23,6 +23,7 @@ import Venue from './components/contents/Venue';
 import PastConferences from './components/contents/PastConferences';
 import Tours from './components/contents/Tours';
 import ContactUs from './components/contents/ContactUs';
+import cmtacknowledge from './components/contents/cmtacknowledge';
 
 const contentMap = {
   Home: <Home />,

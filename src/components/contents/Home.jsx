@@ -29,10 +29,7 @@ const Home = () => {
         <p className="mb-4 text-justify leading-relaxed text-base">
         CICN 2025 will no doubt be proven to be exciting and educative. The General Chairs, along with the entire team cordially invite you to take part in this upcoming event and together we flourish it into a most memorable experience. 
         </p>
-        <p className="mb-4 text-justify leading-relaxed text-base">
-            CMT Acknowledgement:
-          The conference organiser gratefully acknowledge the use of the Microsoft Conference Management Toolkit (CMT) portal for facilitating the submission and review process of various papers for this CICN 2025 Conference.
-        </p>
+       
         <p className="text-center text-lg font-semibold"> 
           Prof. Dr. Manish Dixit, IEEE MP Section
           <br />
