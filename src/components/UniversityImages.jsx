@@ -4,7 +4,7 @@ import React from 'react';
 // Import the images from the assets folder
 import university1 from '../assets/prnce_muhammad_fahd.png';
 import university2 from '../assets/sanchi.png';
-import university3 from '../assets/ou2.jpeg';
+import university3 from '../assets/hellogoa.jpg';
 import university4 from '../assets/prnce_muhammad_fahd.png';
 // Add more imports as needed
 

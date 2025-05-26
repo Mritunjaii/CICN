@@ -6,7 +6,7 @@ const committees = [
     members: [
       "Prof. OR Jaiswal, Director NIT Goa",
       "Prof. GS Tomar, IEEE MP Chair",
-      "Prof. Sameer Nanivadekar, IEEE Bombay",
+      // "Prof. Sameer Nanivadekar, IEEE Bombay",
       // "Prof. Garima Ghai, Oriental University, Indore",
     ],
   },
@@ -15,6 +15,7 @@ const committees = [
     members: [
       "Prof. Manish Dixit, MITS Gwalior",
       "Dr. Lalat Indu Giri, NIT Goa",
+      "Dr. Shashikant Patil, IEEE Bombay Section",
     ],
   },
   {
@@ -66,17 +67,12 @@ const committees = [
       "Dr. Jitendra Agrawal, RGPV Bhopal",
     ],
   },
-  // {
-  //   title: "Hospitality Committee Chairs",
-  //   members: [
-  //     "Ms. Fiona Lawrence, Oriental University, Indore",
-  //     "Ms. Pakiza Khan, Oriental University, Indore",
-  //     "Mr. Mohammad Javed, Oriental University, Indore",
-  //     "Mr. Manoj Biswakarma, Oriental University, Indore",
-  //     "Ms. Arpita Gupta, Oriental University, Indore",
-  //     "Ms. Preeti Puranik, Oriental University, Indore",
-  //   ],
-  // },
+  {
+    title: "Hospitality Committee Chairs",
+    members: [
+      "Dr. Anirban Chatterjee",
+    ],
+  },
   {
     title: "Technical Program Committee",
     members: [

@@ -11,5 +11,5 @@ Theme: Computational Intelligence and Communication Networks
 
 Date: 20-21 Dec 2025
 
-Location: NIT Goa
+<!-- Location: NIT Goa -->
 

@@ -15,23 +15,27 @@ const Speakers = () => {
           <div className="bg-white rounded-lg shadow-lg p-4 sm:p-6 border border-gray-200 text-justify">
             <div className="flex flex-col sm:flex-row items-center sm:space-x-4">
               <img 
-                src="src/assets/AmiriGolilarz.jpg" 
+                src="src/assets/avatar.png" 
                 alt="Dr. Noorbakhsh Amiri Golilarz" 
                 className="w-24 h-24 sm:w-32 sm:h-32 rounded-full object-cover shadow-md"
               />
               <div className="flex-1 mt-4 sm:mt-0">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-semibold text-gray-800 mb-2">
-                  Dr. Noorbakhsh Amiri Golilarz
+                Prof Seilov Shakhmara
                 </h2>
                 <p className="text-sm sm:text-base text-gray-600 mb-4">
-                  Affiliation: Department of Computer Science and Engineering, Mississippi State University, MS, USA
+                  L.N. Gumilyov Eurasian National University, Kazakhstan
                 </p>
               </div>
             </div>
             <p className="text-gray-800 font-medium mb-2">Biography:</p>
             <p className="text-sm sm:text-base text-gray-700">
-              Dr. Amiri Golilarz is an Assistant Research Professor in the Department of Computer Science and Engineering at Mississippi State University. He holds a Ph.D. in Electrical and Computer Engineering from Southern Illinois University Carbondale, IL, and a Doctor of Engineering degree in Computer Science and Technology from UESTC, China. He has also worked as a postdoctoral research fellow at Boston College, Massachusetts. He has extensive experience in Image Processing and Computer Vision, Machine Learning, Deep Convolutional Neural Networks, and Disease Diagnosis using Deep Learning. Dr. Amiri has published various papers in high IF journals and IEEE conferences. He has also served as Editor-in-chief for two journals, and as a lead guest editor in several SCI-indexed journals. He is also the co-founder and Editor-in-chief of AI Letters, a double-blind peer-reviewed journal.
-            </p>
+            President of the Kazakh Academy of Infocommunications, Dean of the Information Technologies Faculty of the L.N. Gumilyov Eurasian National University, candidate of technical sciences (1990) and doctor of economic sciences (2006), professor, academician of the International Academy of Communications (2004).
+Seilov Sh. has graduated in 1983 from the Leningrad (St. Petersburg) Electrotechnical Institute of Communications with a degree in automatic telecommunications. Since 1996, he worked in executive positions in Kazakh telecom JSC, Kazteleradio JSC.
+In 2007, he founded the Kazakh Academy of Infocommunications, a non-governmental scientific consulting fund, deals with market analysis and improvement of state regulation of the telecommunications sector, development of regulatory legal acts and technical regulations in the field of ICT. For the development of the Institute of Innovation, a project has been developed for the selection and commercialization of start-up projects using crowdfunding and cryptocurrency.
+Under his leadership, the “Model of universal service and provision of broadband access to the Internet in rural settlements of the republic”, “Opportunities and potential for transit of telecommunication traffic Eastern Europe - Southeast Asia of the Republic of Kazakhstan” for the Ministry of Health of the Republic of Kazakhstan “Development and use of telemedicine systems for rural settlements of Kazakhstan ", the Ministry of Labor and Social Protection " Intelligent information system for searching for vacancies and personnel using elements of artificial intelligence ", the Ministry of Industry and Trade " Identification of critical technologies for the industrial and innovative development of the economy of Kazakhstan in the framework of foresight research. "
+Seilov Sh. has experience in international projects, he was the national coordinator of the Center of Excellence of the International Telecommunication Union, an expert of the European Bank for Development and Reconstruction in the project "Liberalization of the telecommunications market of the CIS countries", proposed to strengthen the integration of countries and competition to zero roaming rates and symmetric interconnect between telecom operators during traffic exchange. Development of Seilov Sh.Zh., the “Methodology for determining economically fair payments for the use of radio frequency resources by telecom operators” was adopted by the ITU Radiocommunication Bureau as a national contribution and the norm of an article in the Law of the Republic of Kazakhstan “On Communications” and the Tax Code of the Republic of Kazakhstan. For a qualitative increase in human capital and international certification of Kazakhstan's ICT specialists, a network of Cisco network academies has been created in the Republic of Kazakhstan, currently this project is supported by Cisco and proposed to the countries of Central Asia.
+</p>
           </div>
 
           {/* Speaker 2 */}

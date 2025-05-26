@@ -1,7 +1,7 @@
 import React from "react";
 import pmu2 from "../../assets/pmu2.jpeg"; // Adjusted path based on folder structure
-import oa1 from "../../assets/oa1.jpeg"; // Adjusted path based on folder structure
-import ou2 from "../../assets/ou2.jpeg"; // Adjusted path based on folder structure
+import oa1 from "../../assets/oa1.jpg"; // Adjusted path based on folder structure
+import ou2 from "../../assets/hellogoa.jpg"; // Adjusted path based on folder structure
 
 const PaperSubmission = () => {
   return (
@@ -32,7 +32,7 @@ const PaperSubmission = () => {
             Authors are encouraged to submit their papers using the EDAS online
             submission system. Papers can be submitted online by{" "}
             <a
-              href="https://edas.info/newPaper.php?c=32525"
+              href="https://edas.info/newPaper.php?c=33833"
               className="text-red-500 hover:underline"
             >
               CLICK

@@ -1,8 +1,8 @@
 import React from "react";
 import { FaCreditCard, FaCashRegister, FaMapMarkerAlt } from "react-icons/fa"; // Importing icons
 import pmu2 from "../../assets/pmu2.jpeg";
-import images from "../../assets/oa1.jpeg";
-import download from "../../assets/ou2.jpeg";
+import images from "../../assets/oa1.jpg";
+import download from "../../assets/hellogoa.jpg";
 
 const Registration = () => {
   return (
@@ -61,7 +61,7 @@ const Registration = () => {
               <tr className="bg-gray-100 hover:bg-gray-200">
                 <td className="py-3 px-4 border-b">Students UG/PG</td>
                 <td className="py-3 px-4 border-b text-center">Rs 3500</td>
-                <td className="py-3 px-4 border-b text-center">$120</td>
+                <td className="py-3 px-4 border-b text-center">$125</td>
               </tr>
               <tr className="bg-gray-100 hover:bg-gray-200">
                 <td className="py-3 px-4 border-b">IEEE Students UG/PG</td>
@@ -83,7 +83,7 @@ const Registration = () => {
         <div className="text-center">
           <p className="text-lg text-gray-800 mb-4">
             <strong>
-              <u>Payment Modes:</u>
+              {/* <u>Payment Modes:</u> */}
             </strong>
           </p>
 
@@ -121,9 +121,9 @@ const Registration = () => {
           </div> */}
 
           <div className="mb-6">
-            <div className="flex items-center justify-center mb-2">
-              <FaCashRegister className="text-2xl text-gray-700 mr-2" />
-              <p className="text-gray-700 mb-4">
+            {/* <div className="flex items-center justify-center mb-2"> */}
+              {/* <FaCashRegister className="text-2xl text-gray-700 mr-2" /> */}
+              {/* <p className="text-gray-700 mb-4">
                 <strong>
                   <u>Payment by NEFT / Cash (Indian Authors Only)</u>
                 </strong>
@@ -140,9 +140,9 @@ const Registration = () => {
                 <strong>IFSC Code:</strong> SBIN0030470
                 <br />
                 <strong>SWIFT:</strong> SBININBB267
-              </p>
-            </div>
-            <p className="text-gray-700 mb-2">
+              </p> */}
+            {/* </div> */}
+            {/* <p className="text-gray-700 mb-2">
               <strong>
                 <u>Payment by Other than Indian Authors</u>
               </strong>
@@ -154,7 +154,7 @@ const Registration = () => {
               >
                 abhineeet@gmail.com
               </a>
-            </p>
+            </p> */}
             <div className="flex flex-wrap justify-center gap-4">
               {/* <img
                 src={pmu2}

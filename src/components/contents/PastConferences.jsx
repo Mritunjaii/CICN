@@ -1,6 +1,6 @@
 import React from 'react';
-import os1 from '../../assets/oa1.jpeg'; // Adjust the path based on your folder structure
-import os2 from '../../assets/ou2.jpeg'; // Adjust the path based on your folder structure
+import os1 from '../../assets/oa1.jpg'; // Adjust the path based on your folder structure
+import os2 from '../../assets/hellogoa.jpg'; // Adjust the path based on your folder structure
 
 const PastConferences = () => {
   return (

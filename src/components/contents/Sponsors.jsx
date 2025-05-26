@@ -3,7 +3,7 @@ import React from 'react';
 // Importing images
 import Ieee from '../../assets/IEEE.jpeg';
 import ou from '../../assets/ou_logo.png';
-import mir from '../../assets/mir.png';
+import ieeebombay from '../../assets/ieeebombay.jpg';
 import iete2 from '../../assets/IETE.png';
 
 const sections = [
@@ -17,10 +17,10 @@ const sections = [
   },
   {
     title: 'Technically Co-Sponsored',
-    description: 'MIR Labs and IETE Gwalior',
+    description: 'IEEE Bombay',
     images: [
-      { src: mir, alt: 'Mir labs' },
-      { src: iete2, alt: 'IETE Gwalior' },
+      { src: ieeebombay, alt: 'ieeebombay' },
+      // { src: iete2, alt: 'IETE Gwalior' },
     ],
   },
   // Add more sections as needed

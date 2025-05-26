@@ -13,8 +13,7 @@ const Header = () => {
              17th IEEE International Conference on Computational Intelligence and Communication Networks
             </div>
             <div className="text-xs sm:text-xs md:text-sm">
-              20–21 December 2025 // National Institute of Technology Goa
-              // Veroda, Goa, India 
+              20–21 December 2025 || NIT Goa, India 
             </div>
           </div>
         </div>

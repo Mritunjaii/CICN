@@ -18,9 +18,9 @@ const ContactUs = () => {
               <p className="text-[10px] sm:text-xs md:text-sm font-semibold mb-2 text-gray-100">
               Dr. Lalat Indu Giri
               </p>
-              <p className="text-[10px] sm:text-xs md:text-sm mb-1 text-gray-300">
+              {/* <p className="text-[10px] sm:text-xs md:text-sm mb-1 text-gray-300">
                 Mob: <a href="tel:+91" className="text-blue-300 hover:underline">+91-</a>
-              </p>
+              </p> */}
               <p className="text-[10px] sm:text-xs md:text-sm text-gray-300">
                 Email: <a href="mailto:cicnmir@gmail.com" className="text-blue-300 hover:underline">lig@nitgoa.ac.in</a>
               </p>
@@ -32,6 +32,7 @@ const ContactUs = () => {
               </p>
               <p className="text-[10px] sm:text-xs md:text-sm text-gray-300">
                 Email: <a href="mailto:cicnmir@gmail.com" className="text-blue-300 hover:underline">cicnmir@gmail.com</a>
+                ,  <a href="mailto:cicnmir@gmail.com" className="text-blue-300 hover:underline">robin19@ieee.org</a>
               </p>
             </li>
           </ul>
