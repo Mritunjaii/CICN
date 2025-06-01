@@ -38,7 +38,42 @@ Seilov Sh. has experience in international projects, he was the national coordin
 </p>
           </div>
 
-          {/* Speaker 2 */}
+
+        {/* Speaker 2 */}
+          <div className="bg-white rounded-lg shadow-lg p-4 sm:p-6 border border-gray-200 text-justify">
+            <div className="flex flex-col sm:flex-row items-center sm:space-x-4">
+              <img 
+                src="src/assets/Christian.jpg" 
+                alt="Prof. Hardik Gohel" 
+                className="w-24 h-24 sm:w-32 sm:h-32 rounded-full object-cover shadow-md"
+              />
+              <div className="flex-1 mt-4 sm:mt-0">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-semibold text-gray-800 mb-2">
+                  Assoc. Prof. Christian Enoval, MSc., SMIEEE
+                </h2>
+                <p className="text-sm sm:text-base text-gray-600 mb-4">
+                  City Savings Bank, Philippines
+                  Polytechnic University of the Philippines
+
+                </p>
+              </div>
+            </div>
+            <p className="text-gray-800 font-medium mb-2">Biography:</p>
+            <p className="text-sm sm:text-base text-gray-700">
+              Assoc. Prof. Christian Enoval is a multi-awarded engineering leader in the Philippines. He works full time as a Unit Head under the Information Technology Group of City Savings Bank in the Philippines and an Associate Professorial Lecturer at the Electronics Engineering Department of the Polytechnic University of the Philippines. With over ten years experience both in academia and industry, he has extensive expertise and managed projects related to ICT, Telecommunications, Financial Technology, IT Service Management, Technology and Engineering Management. 
+
+Assoc. Prof. Enoval holds a BSc in Electronics and Communications Engineering and MSc. in Industrial Engineering and Management from the Polytechnic University of the Philippines and a candidate for PhD in Technology Management at the Technological University of the Philippines. He is a licensed Professional Electronics Engineer in the Philippines and a registered ASEAN Engineer under the ASEAN Engineering Register. Assoc. Prof. Enoval is an IEEE Senior Member and the current Chair of IEEE Philippine Section. He was also the founding Chair of IEEE Young Professionals Philippines and has held several committee memberships in IEEE Asia Pacific Region for years now. He has received several recognitions for his valuable contributions in the engineering profession such as Outstanding Volunteer Awards given by IEEE Philippine Section (in 2019) and IEEE R10 Young Professionals (in 2021). He also received Leader Award in 2023 by the Institute of Electronics Engineers of the Philippines (IECEP). In 2025, he received Distinction Award given by the Philippine Federation of Professional Associations.
+            </p>
+            <p className="text-gray-800 font-medium mb-2">Keynote Title: Impact of Technology in the Philippine Financial Landscape
+</p>
+            <p className="text-sm sm:text-base text-gray-700">
+              Abstract: The financial landscape of the Philippines in 2025 is characterized by resilience amid global uncertainties, ongoing digital transformation, and strategic reforms aimed at fostering sustainable economic growth. Technology has profoundly reshaped the Philippine financial landscape in 2025, driving financial inclusion, enhancing efficiency, and fostering innovation. This presentation will present an overview of the key technological advancements and their impact and how technology has catalyzed the financial revolution in the Philippines, enhancing accessibility, efficiency, and inclusivity. While challenges persist, the ongoing advancements in digital banking, blockchain, and AI are poised to further transform the financial landscape in the coming years.
+            </p>
+            
+          </div>
+
+
+          {/* Speaker 3 */}
           <div className="bg-white rounded-lg shadow-lg p-4 sm:p-6 border border-gray-200 text-justify">
             <div className="flex flex-col sm:flex-row items-center sm:space-x-4">
               <img 

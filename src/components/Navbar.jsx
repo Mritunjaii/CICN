@@ -2,6 +2,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { FiMenu, FiX, FiChevronDown } from 'react-icons/fi';
 import { motion, AnimatePresence } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import "./Navbar.css";
 
 const Navbar = ({ handleClick }) => {
@@ -192,8 +193,8 @@ const Navbar = ({ handleClick }) => {
               )}
             </AnimatePresence>
           </div>
-          <a
-            onClick={() => window.location.href = 'https://cicn-2025.vercel.app/CMT-Acknowledgement'}
+         <a
+            href='/CMT-Acknowledgement'
             className="block px-3 py-2 cursor-pointer hover:bg-sky-400 text-white text-xs"
             style={{ textDecoration: 'none' }}
           >
